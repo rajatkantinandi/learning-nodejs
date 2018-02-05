@@ -1,0 +1,24 @@
+{
+  "name": "@rajatkn/node1",
+  "version": "1.0.1",
+  "description": "My first Node.JS Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Rajat",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajatkantinandi/first-node-project.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rajatkantinandi/first-node-project/issues"
+  },
+  "homepage": "https://github.com/rajatkantinandi/first-node-project#readme",
+  "dependencies": {},
+  "devDependencies": {}
+}
