@@ -1,6 +1,6 @@
-## Learning node via nodeschool learnyounode & freecodecamp
+# Learning node via nodeschool learnyounode & freecodecamp
 
-# List of programs:
+## List of programs:
 
 * Sum of Arguments synchronously
 * Sum of Arguments asynchronously
