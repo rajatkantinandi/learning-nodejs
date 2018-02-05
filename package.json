@@ -1,7 +1,7 @@
 {
   "name": "@rajatkn/node1",
   "version": "1.0.1",
-  "description": "My first Node.JS Project",
+  "description": "Learning NodeJS",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
@@ -13,12 +13,12 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rajatkantinandi/first-node-project.git"
+    "url": "git+https://github.com/rajatkantinandi/learning-nodejs.git"
   },
   "bugs": {
-    "url": "https://github.com/rajatkantinandi/first-node-project/issues"
+    "url": "https://github.com/rajatkantinandi/learning-nodejs/issues"
   },
-  "homepage": "https://github.com/rajatkantinandi/first-node-project#readme",
+  "homepage": "https://github.com/rajatkantinandi/learning-nodejs#readme",
   "dependencies": {},
   "devDependencies": {}
 }

@@ -1,6 +1,10 @@
-## This is my first node project
+## Learning node via nodeschool learnyounode & freecodecamp
 
-*Hello World*
+#List of programs:
 
-This is exciting..
-
+* Sum of Arguments synchronously
+* Sum of Arguments asynchronously
+* Count line numbers of a file
+* Display list of files inside a directory filtered by extension
+* Display list of files inside a directory filtered by extension by creating & using a module
+* HTTP client GET request
