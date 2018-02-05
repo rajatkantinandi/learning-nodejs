@@ -19,6 +19,8 @@
     "url": "https://github.com/rajatkantinandi/learning-nodejs/issues"
   },
   "homepage": "https://github.com/rajatkantinandi/learning-nodejs#readme",
-  "dependencies": {},
+  "dependencies": {
+    "through2-map": "^3.0.0"
+  },
   "devDependencies": {}
 }

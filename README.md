@@ -11,3 +11,6 @@
 * Collect HTTP GET requests
 * Juggling Async Requests & print result in sequence (Both async way getting data & getting them one by one in sync manner)
 * Node Time Server
+* HTTP File server ReadStream
+* HTTP response=request.toUppercase()
+* HTTP JSON API SERVER
