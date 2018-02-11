@@ -1,6 +1,6 @@
 {
   "name": "@rajatkn/node1",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Learning NodeJS",
   "main": "index.js",
   "scripts": {
@@ -20,6 +20,12 @@
   },
   "homepage": "https://github.com/rajatkantinandi/learning-nodejs#readme",
   "dependencies": {
+    "@linclark/pkg": "^1.0.3",
+    "bl": "^1.2.1",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "pug": "^2.0.0-rc.4",
+    "stylus": "^0.54.5",
     "through2-map": "^3.0.0"
   },
   "devDependencies": {}
