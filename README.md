@@ -25,3 +25,19 @@
     * Parameters & Crypto (Param Pam Pam)
     * What's in query
     * JSON me
+
+* ### learnyoumongo
+    * Mongod -
+        (install) -> sudo apt install mongodb
+        -> npm install mongodb --save
+        (Code for installed version 3.0+ below)
+    * Connect - 
+        -> mkdir data
+        -> mongod --port 27017 --dbpath=./data
+    * Find
+    * Find Project
+    * Insert
+    * Update
+    * Remove
+    * Count
+    * Aggregate
